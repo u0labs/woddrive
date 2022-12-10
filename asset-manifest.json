@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.75e291bc.css",
-    "main.js": "/static/js/main.0ca30f57.js",
-    "static/js/787.a1f362c1.chunk.js": "/static/js/787.a1f362c1.chunk.js",
-    "static/media/logo-f.svg": "/static/media/logo-f.5e9b0162d729f3cb61278c6c4af60fb9.svg",
-    "static/media/PatuaOne-Regular.woff": "/static/media/PatuaOne-Regular.935210476e97674719b1.woff",
-    "index.html": "/index.html",
-    "static/media/instagram.svg": "/static/media/instagram.e2beb2d266fd4f2c1b8d918bb3ed1607.svg",
-    "main.75e291bc.css.map": "/static/css/main.75e291bc.css.map",
-    "main.0ca30f57.js.map": "/static/js/main.0ca30f57.js.map",
-    "787.a1f362c1.chunk.js.map": "/static/js/787.a1f362c1.chunk.js.map"
+    "main.css": "/woddrive/static/css/main.75e291bc.css",
+    "main.js": "/woddrive/static/js/main.5c5b72c0.js",
+    "static/js/787.a1f362c1.chunk.js": "/woddrive/static/js/787.a1f362c1.chunk.js",
+    "static/media/logo-f.svg": "/woddrive/static/media/logo-f.5e9b0162d729f3cb61278c6c4af60fb9.svg",
+    "static/media/PatuaOne-Regular.woff": "/woddrive/static/media/PatuaOne-Regular.935210476e97674719b1.woff",
+    "index.html": "/woddrive/index.html",
+    "static/media/instagram.svg": "/woddrive/static/media/instagram.e2beb2d266fd4f2c1b8d918bb3ed1607.svg",
+    "main.75e291bc.css.map": "/woddrive/static/css/main.75e291bc.css.map",
+    "main.5c5b72c0.js.map": "/woddrive/static/js/main.5c5b72c0.js.map",
+    "787.a1f362c1.chunk.js.map": "/woddrive/static/js/787.a1f362c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e291bc.css",
-    "static/js/main.0ca30f57.js"
+    "static/js/main.5c5b72c0.js"
   ]
 }
