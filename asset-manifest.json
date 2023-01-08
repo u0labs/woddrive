@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75e291bc.css",
-    "main.js": "/static/js/main.e7e53187.js",
+    "main.js": "/static/js/main.59f4174b.js",
     "static/js/787.a1f362c1.chunk.js": "/static/js/787.a1f362c1.chunk.js",
     "static/media/logo-f.svg": "/static/media/logo-f.5e9b0162d729f3cb61278c6c4af60fb9.svg",
     "static/media/PatuaOne-Regular.woff": "/static/media/PatuaOne-Regular.935210476e97674719b1.woff",
@@ -9,11 +9,11 @@
     "index.html": "/index.html",
     "static/media/instagram.svg": "/static/media/instagram.e2beb2d266fd4f2c1b8d918bb3ed1607.svg",
     "main.75e291bc.css.map": "/static/css/main.75e291bc.css.map",
-    "main.e7e53187.js.map": "/static/js/main.e7e53187.js.map",
+    "main.59f4174b.js.map": "/static/js/main.59f4174b.js.map",
     "787.a1f362c1.chunk.js.map": "/static/js/787.a1f362c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e291bc.css",
-    "static/js/main.e7e53187.js"
+    "static/js/main.59f4174b.js"
   ]
 }
